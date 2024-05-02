@@ -113,7 +113,7 @@ ___
 ___
 
 #### Upload movies from JSON file
-
+!!! You can find movies.json in **src/test/resources/** !!!
 ```http
   POST /api/movie/upload
 ```
@@ -180,4 +180,5 @@ Go to the project directory
 ```
 
 Run 'SpringRestApplication'
+
 
