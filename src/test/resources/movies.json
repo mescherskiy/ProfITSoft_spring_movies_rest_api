@@ -1,0 +1,183 @@
+[
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "director": "James Cameron"
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "genre": ["Drama", "Romance"],
+    "director": "James Cameron"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genre": ["Action", "Adventure", "Drama"],
+    "director": "Anthony Russo, Joe Russo"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "director": "Anthony Russo, Joe Russo"
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": ["Adventure", "Sci-Fi", "Thriller"],
+    "director": "Steven Spielberg"
+  },
+  {
+    "title": "Jaws",
+    "year": 1975,
+    "genre": ["Adventure", "Thriller"],
+    "director": "Steven Spielberg"
+  },
+  {
+    "title": "The Avengers",
+    "year": 2012,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "director": "Joss Whedon"
+  },
+  {
+    "title": "The Lion King",
+    "year": 2019,
+    "genre": ["Adventure", "Animation", "Drama"],
+    "director": "Jon Favreau"
+  },
+  {
+    "title": "Frozen",
+    "year": 2013,
+    "genre": ["Adventure", "Animation", "Comedy"],
+    "director": "Chris Buck, Jennifer Lee"
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "genre": ["Adventure", "Animation", "Comedy"],
+    "director": "John Lasseter"
+  },
+  {
+    "title": "Toy Story 4",
+    "year": 2019,
+    "genre": ["Adventure", "Animation", "Comedy"],
+    "director": "Josh Cooley"
+  },
+  {
+    "title": "Finding Nemo",
+    "year": 2003,
+    "genre": ["Adventure", "Animation", "Comedy"],
+    "director": "Andrew Stanton"
+  },
+  {
+    "title": "Finding Dory",
+    "year": 2016,
+    "genre": ["Adventure", "Animation", "Comedy"],
+    "director": "Andrew Stanton, Angus MacLane"
+  },
+  {
+    "title": "The Incredibles",
+    "year": 2004,
+    "genre": ["Action", "Adventure", "Animation"],
+    "director": "Brad Bird"
+  },
+  {
+    "title": "The Incredibles 2",
+    "year": 2018,
+    "genre": ["Action", "Adventure", "Animation"],
+    "director": "Brad Bird"
+  },
+  {
+    "title": "Inside Out",
+    "year": 2015,
+    "genre": ["Adventure", "Animation", "Comedy"],
+    "director": "Pete Docter, Ronnie Del Carmen"
+  },
+  {
+    "title": "Zootopia",
+    "year": 2016,
+    "genre": ["Adventure", "Animation", "Comedy"],
+    "director": "Byron Howard, Rich Moore, Jared Bush"
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "genre": ["Adventure", "Animation", "Family"],
+    "director": "Lee Unkrich, Adrian Molina"
+  },
+  {
+    "title": "Moana",
+    "year": 2016,
+    "genre": ["Adventure", "Animation", "Comedy"],
+    "director": "Ron Clements, John Musker"
+  },
+  {
+    "title": "Aladdin",
+    "year": 1992,
+    "genre": ["Adventure", "Animation", "Comedy"],
+    "director": "Ron Clements, John Musker"
+  },
+  {
+    "title": "The Little Mermaid",
+    "year": 1989,
+    "genre": ["Animation", "Family", "Fantasy"],
+    "director": "Ron Clements, John Musker"
+  },
+  {
+    "title": "Beauty and the Beast",
+    "year": 1991,
+    "genre": ["Animation", "Family", "Fantasy"],
+    "director": "Gary Trousdale, Kirk Wise"
+  },
+  {
+    "title": "Mulan",
+    "year": "some",
+    "genre": ["Adventure", "Animation", "Family"],
+    "director": "Tony Bancroft, Barry Cook"
+  },
+  {
+    "title": "",
+    "year": 1995,
+    "genres": ["Animation", "Drama", "Family"],
+    "director": "Mike Gabriel, Eric Goldberg"
+  },
+  {
+    "title": 2010,
+    "year": 2010,
+    "genre": ["Adventure", "Animation", "Comedy"],
+    "director": "Nathan Greno, Byron Howard"
+  },
+  {
+    "title": "Ratatouille",
+    "year": 2007,
+    "genre": [],
+    "director": "Brad Bird, Jan Pinkava"
+  },
+  {
+    "title": "Brave",
+    "year": 2012,
+    "director": "Mark Andrews, Brenda Chapman"
+  },
+  {
+    "title": "Up",
+    "year": 1009,
+    "genre": ["Adventure", "Animation", "Comedy"],
+    "director": "Pete Docter, Bob Peterson"
+  },
+  {
+    "title": "WALL-E",
+    "year": "2008",
+    "genre": "Adventure, Animation, Family",
+    "director": "Andrew Stanton"
+  },
+  {
+    "titul": "Armageddon",
+    "yaar": 2008,
+    "ganr": ["Action"],
+    "dyrector": "Steven Spielberg",
+    "awards": "oscar"
+  }
+]
+
